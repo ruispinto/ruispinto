@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ruispinto
-- 🌱 I’m currently learning asp .net
-- 📫 How to reach me ? Write to ruispinto@gmail.com
+- @ruispinto
+- Developer Asp.Net, C#
+- Contact: ruispinto@gmail.com
 
 <!---
 ruispinto/ruispinto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
