@@ -1,5 +1,5 @@
 - @ruispinto
-- Developer Asp.Net, C#
+- Asp.Net, .Net Core, C#
 - Contact: ruispinto@gmail.com
 
 <!---
